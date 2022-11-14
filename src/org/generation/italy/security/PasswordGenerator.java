@@ -15,6 +15,7 @@ public class PasswordGenerator {
 //	generare (e stampare a video) una password  concatenando nome, cognome, colore preferito e somma di giorno, mese e anno di nascita, separate dal carattere -
 //	Esempio: ho un utente che si chiama Pinco Pallo, nato il 12/05/1994, il cui colore preferito è il magenta
 //	La sua password sarà Pinco-Pallo-magenta-2011
+	// SECOND COMIT TEST
 
 
 	public static void main(String[] args) {
