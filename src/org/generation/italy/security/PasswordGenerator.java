@@ -16,6 +16,7 @@ public class PasswordGenerator {
 //	Esempio: ho un utente che si chiama Pinco Pallo, nato il 12/05/1994, il cui colore preferito è il magenta
 //	La sua password sarà Pinco-Pallo-magenta-2011
 	// SECOND COMIT TEST
+	// test third
 
 
 	public static void main(String[] args) {
